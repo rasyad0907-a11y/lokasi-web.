@@ -1,5 +1,6 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+git init
+git add index.html
+git commit -m "Add lokasi web"
+git branch -M main
+git remote add origin https://github.com/rasyad0907-a11y/lokasi-web.git
+git push -u origin main
